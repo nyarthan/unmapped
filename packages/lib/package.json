@@ -1,0 +1,13 @@
+{
+	"name": "@unmapped/lib",
+	"type": "module",
+	"scripts": {
+		"test": "node --test"
+	},
+	"dependencies": {
+		"zod": "^4.1.12"
+	},
+	"devDependencies": {
+		"@types/node": "^24.10.1"
+	}
+}

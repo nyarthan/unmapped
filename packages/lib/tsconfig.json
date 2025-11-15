@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"lib": "ESNext",
+		"erasableSyntaxOnly": true,
+		"allowImportingTsExtensions": true,
+		"moduleResolution": "nodenext",
+		"module": "nodenext"
+	}
+}
