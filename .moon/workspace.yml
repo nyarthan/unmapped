@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://moonrepo.dev/schemas/workspace.json
+
+vcs:
+  manager: git
+  provider: github
+  defaultBranch: main
+  
+
+projects:
+  - 'packages/*'
